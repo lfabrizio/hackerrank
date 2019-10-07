@@ -1,7 +1,7 @@
 // use a counter
 // use sort
 //variable set to input length  minus 1
-// math max and use spread operator 
+// math max and use spread operator adds elements from ar
 
 function birthdayCakeCandles(ar) {
     
