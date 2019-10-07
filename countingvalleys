@@ -1,0 +1,7 @@
+// function takes in two parameters
+// num of steps Gary takes and a string of his path
+// int and string
+// counter from sea level
+// two variables a counter and one to store altitude steps
+// for loop iterate through the str of steps
+// if statement to increment or decrement altitude D and H 
