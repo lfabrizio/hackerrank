@@ -1,3 +1,4 @@
+// refactored to better solution
 // use a counter
 // use sort
 //variable set to input length  minus 1
@@ -9,7 +10,7 @@ function birthdayCakeCandles(ar) {
     
     let height = Math.max(...ar);
     
-    
+  
 
     for (let i = 0; i < arr.length; i++)
     {
