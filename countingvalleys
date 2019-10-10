@@ -6,5 +6,5 @@
 // for loop iterate through the str of steps
 // if statement to increment or decrement altitude D and H 
 
-let counter = 0;
+let valleyCount = 0;
 let steps = 0;
