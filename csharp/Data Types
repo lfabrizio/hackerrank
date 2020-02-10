@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+class Solution {
+    static void Main(String[] args) {
+        int i = 4;
+        double d = 4.0;
+        string s = "HackerRank ";
+
+        
+        // Declare second integer, double, and String variables.
+     
+
+          int j;
+        double e;
+        string t;
+
+        j = Convert.ToInt32(Console.ReadLine());
+        e = Convert.ToDouble(Console.ReadLine());
+        t = Console.ReadLine();
+
+        Console.WriteLine(i + j);
+        Console.WriteLine(String.Format("{0:0.0}", (d + e)));
+        Console.WriteLine(s + t);
+
+    }
+}
